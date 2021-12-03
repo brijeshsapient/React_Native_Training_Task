@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1638535412283" clover="3.2.0">
+  <project timestamp="1638535412283" name="All files">
+    <metrics statements="76" coveredstatements="55" conditionals="14" coveredconditionals="10" methods="31" coveredmethods="19" elements="121" coveredelements="84" complexity="0" loc="76" ncloc="76" packages="6" files="15" classes="15"/>
+    <package name="TraningTask">
+      <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name=".eslintrc.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\.eslintrc.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name=".prettierrc.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\.prettierrc.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name="App.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\App.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\index.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="metro.config.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\metro.config.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="TraningTask.src.api">
+      <metrics statements="31" coveredstatements="20" conditionals="8" coveredconditionals="6" methods="10" coveredmethods="3"/>
+      <file name="Action.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\api\Action.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="ActionCreator.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\api\ActionCreator.js">
+        <metrics statements="17" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+      <file name="ActionTypes.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\api\ActionTypes.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="Reducer.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\api\Reducer.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="9" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="Store.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\api\Store.js">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="TraningTask.src.asyncStorage">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="localStorage.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\asyncStorage\localStorage.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="TraningTask.src.components">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="CardView.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\components\CardView.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+      <file name="SearchBar.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\components\SearchBar.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="TraningTask.src.constant">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Constant.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\constant\Constant.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="TraningTask.src.screens">
+      <metrics statements="23" coveredstatements="20" conditionals="6" coveredconditionals="4" methods="12" coveredmethods="10"/>
+      <file name="SearchScreen.js" path="C:\Users\brikumar3\Desktop\Project\TraningTask\src\screens\SearchScreen.js">
+        <metrics statements="23" coveredstatements="20" conditionals="6" coveredconditionals="4" methods="12" coveredmethods="10"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
